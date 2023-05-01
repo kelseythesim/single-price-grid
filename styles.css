@@ -30,6 +30,9 @@ body {
 
 .header {
   padding: 1.75rem;
+  background-color: #fafafa;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
 }
 
 .header h1 {
